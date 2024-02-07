@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **TailwindCSS , Bootstrap ,HTML ,EJS**
+- 💬 Ask me about **TailwindCSS , Bootstrap , HTML , EJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
