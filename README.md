@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Adarsh Singh<br>An aspiring Web developer and Python and C++ Enthusiast from Uttar Pradesh<br>💬 Ask me about PostgreSQL , React , Express , NodeJS , TailwindCSS , EJS 
+I'm Adarsh Singh<br>A PERN Stack Web developer and Python and C++ Enthusiast from Uttar Pradesh<br>💬 Ask me about PostgreSQL , React , Express , NodeJS , TailwindCSS , EJS 
 
 
 ## 🌐 Socials:
