@@ -16,7 +16,7 @@ I'm Adarsh Singh<br>A PERN Stack Web developer and Python Enthusiast from Uttar 
 
 <!-- GitHub Streak -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=adarsh-singh01&theme=transparent" alt="sethshivam11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=adarsh-singh01&theme=transparent" alt="adarsh-singh01" /></p>
 
 <!-- GitHub Stats and Top Langs -->
 <p align="center">
